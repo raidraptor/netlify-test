@@ -1,0 +1,28 @@
+[
+    {
+      "id": "1",
+      "name": "Gawr Gura Dakimakura Cover 1",
+      "inventory": 99,
+      "price": 100.00,
+      "currencySymbol": "$",
+      "size": "160cm x 50cm",
+      "material": "Kuri's 2 Way Tricot",
+      "series": "original",
+      "cover": [
+        "./assets/Koharu.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Gawr Gura Dakimakura Cover 2",
+      "inventory": 999,
+      "price": 70.50,
+      "currencySymbol": "$",
+      "size": "160cm x 50cm",
+      "material": "Kuri's 2 Way Tricot",
+      "series": "original",
+      "cover": [
+        "./assets/Koharu.jpg"
+      ]
+    }
+  ]
